@@ -1,0 +1,15 @@
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\bin\Debug\net6.0\LatihanOOP.exe
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\bin\Debug\net6.0\LatihanOOP.deps.json
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\bin\Debug\net6.0\LatihanOOP.runtimeconfig.json
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\bin\Debug\net6.0\LatihanOOP.dll
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\bin\Debug\net6.0\LatihanOOP.pdb
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\LatihanOOP.csproj.AssemblyReference.cache
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\LatihanOOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\LatihanOOP.AssemblyInfoInputs.cache
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\LatihanOOP.AssemblyInfo.cs
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\LatihanOOP.csproj.CoreCompileInputs.cache
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\LatihanOOP.dll
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\refint\LatihanOOP.dll
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\LatihanOOP.pdb
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\LatihanOOP.genruntimeconfig.cache
+F:\D\documents\Kampus Merdeka\Batch 4\.NET\DTS_Batch2\LatihanOOP\obj\Debug\net6.0\ref\LatihanOOP.dll

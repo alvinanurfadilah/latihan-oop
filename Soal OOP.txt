@@ -1,0 +1,33 @@
+Soal OOP
+
+Terdapat 3 orang dimana orang pertama adalah seorang businessman, orang kedua adalah seorang karyawan, dan orang ketiga adalah seorang dosen. Ketiganya memiliki sifat yang sama yaitu dapat :
+1. Memiliki NIP dimana NIP tidak bisa diakses oleh sembarang orang
+2. Mempunya Nama
+3. Memiliki Gaji
+
+Tetapi setiap orang memiliki caranya sendiri untuk berangkat kerja, yaitu :
+1. Businessmen berangkat menggunakan kendaraan pribadi.
+2. Karyawan berangkat menggunakan kendaraan umum.
+3. Dosen berangkat menggunakan kendaraan pribadi.
+
+Setiap bulannya gaji yang diterima oleh setiap orang nantinya akan dihitung dari total gaji yang didapatkan setelah ditambah dengan tunjangan (bagi orang yang mendapatkan) dan dikurang dengan biaya bpjs dengan ketentuan :
+1. Businessmen : 3%
+2. Karyawan : 2%
+3. Dosen : 1%
+
+Buatlah pengimplementasian OOP dari deskripsi diatas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
