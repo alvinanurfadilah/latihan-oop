@@ -8,16 +8,16 @@ namespace LatihanOOP;
 
 public class Karyawan : Person
 {
-    double allowance;
     public double Total()
     {
         double bpjs = 2/100d;
-        return salary - bpjs + allowance;
+        return salary - bpjs;
     }
 
     public void TotalSalary()
     {
         Console.WriteLine("Total Salary : " + Total());
+        Console.WriteLine("============================");
     }
 
     public double Total(double allowance)
@@ -29,10 +29,6 @@ public class Karyawan : Person
     public void TotalSalary(double allowance)
     {
         Console.WriteLine("Total Salary : " + Total(allowance));
-    }
-
-    public override void Introduction()
-    {
-        base.Introduction();
+        Console.WriteLine("============================");
     }
 }

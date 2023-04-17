@@ -13,7 +13,7 @@ public class Person
     public string goWork;
     public int salary;
 
-    public virtual void Introduction()
+    public void Introduction()
     {
         Console.WriteLine("NIP : " + nip);
         Console.WriteLine("Name : " + name);

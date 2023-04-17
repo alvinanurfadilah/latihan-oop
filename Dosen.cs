@@ -17,6 +17,7 @@ internal class Dosen : Person
     public void TotalSalary()
     {
         Console.WriteLine("Total Salary : " + Total());
+        Console.WriteLine("============================");
     }
 
     public double Total(double allowance)
@@ -28,10 +29,6 @@ internal class Dosen : Person
     public void TotalSalary(double allowance)
     {
         Console.WriteLine("Total Salary : " + Total(allowance));
-    }
-
-    public override void Introduction()
-    {
-        base.Introduction();
+        Console.WriteLine("============================");
     }
 }
